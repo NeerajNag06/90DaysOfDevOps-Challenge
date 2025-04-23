@@ -6,7 +6,7 @@ Let's come together to grow and achieve new heights in DevOps!
 
 📖 Discover More in Our Detailed Table of Contents! Explore the richness of our content and find what you're looking for efficiently. Check out our TOC here.
 
-*Steps:*
+<h1>Steps:</h1>
 
 Fork[https://github.com/LondheShubham153/90DaysOfDevOps/fork] the Repo.
 <br>Learn Everyday and add your learnings in the day wise folders.
