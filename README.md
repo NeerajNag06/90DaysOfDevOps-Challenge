@@ -10,6 +10,8 @@ Let's come together to grow and achieve new heights in DevOps!
 <h3>Steps:</h3>
 
 Fork[https://github.com/LondheShubham153/90DaysOfDevOps/fork] the Repo.
-<br>Learn Everyday and add your learnings in the day wise folders.
-<br>Check out what others are Learning and help/learn from them.
-<br>Showcase your learnings on LinkedIn
+<ul>
+<li>Learn Everyday and add your learnings in the day wise folders.</li>
+<li>Check out what others are Learning and help/learn from them.</li>
+<li>Showcase your learnings on LinkedIn</li>
+</ul>
